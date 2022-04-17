@@ -35,7 +35,7 @@ const HomeHeader = ({onSearch}) => {
     <View style={{ marginVertical: SIZES.font}}>
     <Text style={{fontFamily: FONTS.regular, fontSize: SIZES.small,
     color: COLORS.white}}>
-    Hello, Albaaaa👋
+    Hello, Alba👋
     </Text>
     <Text style={{fontFamily: FONTS.bold, fontSize: SIZES.large,
     color: COLORS.white, marginTop: SIZES.base / 2}}>
